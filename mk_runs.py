@@ -18,16 +18,20 @@ on["LH85226"] = [ 112601, 112602, 112603, 112605, 112606,
                   116632, 116633, 116634,
                   ]
 
+on["LH97576"] =  [ 121981, 121982, 121983,]
+
+
+
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
 pars1["LH85226"] = ""
-
+pars1["LH97576"] = ""
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
 pars2 = {}
 pars2["LH85226"] = ""
-
+pars2["LH97576"] = ""
 
 if __name__ == '__main__':    
     runs.mk_runs(project, on, pars1, pars2, None, sys.argv)
