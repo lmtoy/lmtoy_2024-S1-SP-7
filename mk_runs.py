@@ -35,9 +35,7 @@ pars1["LH97576"] = ""
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
 pars2 = {}
-pars2["LH85226"] = ""
-pars2["LH89907"] = ""
-pars2["LH97576"] = ""
+
 
 if __name__ == '__main__':    
-    runs.mk_runs(project, on, pars1, pars2, None, sys.argv)
+    runs.mk_runs(project, on, pars1, None, None, sys.argv)
