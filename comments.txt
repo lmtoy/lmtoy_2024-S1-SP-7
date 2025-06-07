@@ -1,4 +1,10 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
-
-112601    testing    # qagrade=0
+112601	removed c/b 3/0	#badcb=3/0, qagrade=3
+112602  removed c/b 3/0 #badcb=3/0, qagrade=3
+112603	#qagrade=3
+112605	removed c/b 3/0	#badcb=3/0, qagrade=3
+112606	removed c/b 3/0 #badcb=3/0, qagrade=3
+112607	#qagrade=3
+112610	#qagrade=3
+112611  removed c/b 3/0 #badcb=3/0, qagrade=3
