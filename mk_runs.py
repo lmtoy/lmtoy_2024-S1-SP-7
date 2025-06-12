@@ -62,7 +62,7 @@ pars1["LH124379"] = ""
 pars1["LH136545"] = ""
 pars1["LH85226"] = "qagrade=3"
 pars1["LH89907"] = ""
-pars1["LH97576"] = ""
+pars1["LH97576"] = "badcb=3/3, qagrade=3"
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
 pars2 = {}
