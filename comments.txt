@@ -12,7 +12,7 @@
 114429  removed c/b 2/3,3/5 #badcb=2/3,3/5
 114431  removed c/b 3/5 #badcb=3/5
 114435  removed c/b 3/5 #badcb=3/5
-114437  REOBSERVE. < 3/6 bands in chassis 3 after removing c/b 3/5 #badcb=2/3,3/5 qagrade=-2
+114437  REOBSERVE. < 3/6 bands in chassis 3 after removing c/b 3/5 #badcb=2/3,3/5, qagrade=-2
 116632  removed c/b 1/0 #badcb=1/0
 116634  [QAFAIL] < 2 chassis band 0 after removing badcb 1/0. Chassis 0 Tsys spikes. #badcb=1/0, qagrade=-2
 126745  remove c/b 0/0,3/3 #badcb=0/0,3/3
