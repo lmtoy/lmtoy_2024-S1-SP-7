@@ -2,18 +2,18 @@
 #123456    QAFAIL     # ...
 
 #LH85226 Jun 11
-112601	removed c/b 3/0	#badcb=3/0, qagrade=3
-112602  removed c/b 3/0 #badcb=3/0, qagrade=3
-112605	removed c/b 3/0	#badcb=3/0, qagrade=3
-112606	removed c/b 3/0 #badcb=3/0, qagrade=3
-112611  removed c/b 3/0 #badcb=3/0, qagrade=3
-112615  removed c/b 3/0 #badcb=3/0, qagrade=3
+112601	removed c/b 3/0	#badcb=3/0
+112602  removed c/b 3/0 #badcb=3/0
+112605	removed c/b 3/0	#badcb=3/0
+112606	removed c/b 3/0 #badcb=3/0
+112611  removed c/b 3/0 #badcb=3/0
+112615  removed c/b 3/0 #badcb=3/0
 112616  REOBSERVE. <2 chassis band 3 after removing c/b 3/0, 3/5 #badcb=3/0,3/5, qagrade=-2
-114429  removed c/b 2/3,3/5 #badcb=2/3,3/5, qagrade=3
-114431  removed c/b 3/5 #badcb=3/5, qagrade=3
-114435  removed c/b 3/5 #badcb=3/5, qagrade=3
+114429  removed c/b 2/3,3/5 #badcb=2/3,3/5
+114431  removed c/b 3/5 #badcb=3/5
+114435  removed c/b 3/5 #badcb=3/5
 114437  REOBSERVE. < 3/6 bands in chassis 3 after removing c/b 3/5 #badcb=3/5, qagrade=-2
-116632  removed c/b 1/0 #badcb=1/0, qagrade=3
+116632  removed c/b 1/0 #badcb=1/0
 116634  [QAFAIL] < 2 chassis band 0 after removing badcb 1/0. Chassis 0 Tsys spikes. #badcb=1/0, qagrade=-2
 
 #LH97576 Jun 12
