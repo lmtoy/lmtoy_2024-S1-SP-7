@@ -1,7 +1,7 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
 
-#LH85226 Jun 11
+#LH85226 Jun 12
 112601	removed c/b 3/0	#badcb=3/0
 112602  removed c/b 3/0 #badcb=3/0
 112605	removed c/b 3/0	#badcb=3/0
@@ -20,21 +20,29 @@
 126747  remove c/b 3/0,3/3 #badcb=3/0,3/3
 
 
-#LH97576 Jun 12
+#LH97576
 121981  REOBSERVE <2 bands in chassis 3 after removing c/b 3/0 #badcb=3/0,3/3, qagrade=-2
 121982  REOBSERVE <2 bands in chassis 3 #qagrade=-2
-121983  removed c/b 1/0 #badcb=1/0,3/3 #qagrade=3
-122412  removed c/b 3/0 #badcb=3/0,3/3 #qagrade=3
-122413  #qagrade=3
-122414  removed c/b 3/0 #badcb=3/0,3/3 #qagrade=3
-123714  removed c/b 1/0 #badcb=1/0,3/3 #qagrade=3
-123715  #qagrade=3
-123716  [QAFAIL] < 3/6 bands in chassis 1. Removed c/b 0/1. Abnormally high Tsys chassis 1. #badcb=0/1,3/3, qagrade=-2
-123718  [QAFAIL] < 3/6 bands in chassis 1. Abnormally high Tsys chassis 0 + 1.  #qagrade=-2
-123719  removed c/b 1/0 #badcb=1/0,3/3, qagrade=3
-123720  removed c/b 1/0 #badcb=1/0,3/3, qagrade=3
-123722  #qagrade=3
-123723  [QAFAIL] only one chassis for band 0 #qagrade=-2
-123724  removed c/b 1/0,3/0 #badcb=1/0,3/0,3/3 #qagrade=3
-
+121983  removed c/b 1/0,3/3 #badcb=1/0,3/3, qagrade=3
+122412  removed c/b 3/0,3/3 #badcb=3/0,3/3, qagrade=3
+122413  removed c/b 3/3 #badcb=3/3, qagrade=3
+122414  removed c/b 3/0,3/3 #badcb=3/0,3/3, qagrade=3
+123714  removed c/b 1/0,3/3 #badcb=1/0,3/3, qagrade=3
+123715  removed c/b 3/3 #badcb=3/3, qagrade=3
+123716  [QAFAIL] < 3/6 bands in chassis 1. Removed c/b 0/1,1/4,3/3. #badcb=0/1,1/4,3/3, qagrade=-2
+123718  [QAFAIL] < 3/6 bands in chassis 1. Abnormally high Tsys chassis 0 + 1. Removed c/b 3/3  #badcb=3/3, qagrade=-2
+123719  removed c/b 1/0,3/3 #badcb=1/0,3/3, qagrade=3
+123720  removed c/b 1/0,3/3 #badcb=1/0,3/3, qagrade=3
+123722  removed c/b 3/3 #badcb=3/3, qagrade=3
+123723  [QAFAIL] only one chassis for band 0. Removed c/b 3/3 #badcb=3/3, qagrade=-2
+123724  removed c/b 1/0,3/0,3/3 #badcb=1/0,3/0,3/3, qagrade=3
+127537  #qagrade=3
+127538  removed c/b 3/0 #badcb=3/0, qagrade=3
+127539  #qagrade=3
+127541  #qagrade=3
+127542  #qagrade=3
+127543  removed c/b 2/2 #badcb=2/2, qagrade=3
+127545  #qagrade=3
+127546  [QAFAIL] < 3/6 bands in chassis 1 after removing 1/0 + Tsys chassis 1 peaks #badcb=1/0, qagrade=-2
+127547  removed c/b 1/0 #badcb=1/0, qagrade=3
  
