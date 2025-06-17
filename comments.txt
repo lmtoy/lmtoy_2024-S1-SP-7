@@ -64,9 +64,55 @@
 127856  removed c/b 3/3  #badcb=3/3
 128824  [REOBSERVE] < 3/6 bands per chassis #qagrade=-2
 128825  [REOBSERVE] < 3/6 bands in chassis 3 after removing 1/0,3/3,3/5 #badcb=1/0,3/3,3/5, qagrade=-2
-128826  remove c/b 3/3 #badcb=3/3
-128919  remove c/b 1/0 #badcb=1/0
-128921  remove c/b 3/3 #badcb=3/3
-128923  remove c/b 3/3 #badcb=3/3
-128924  remove c/b 1/0,3/3 #badcb=1/0,3/3
-128925  remove c/b 1/0 #badcb=1/0
+128826  removed c/b 3/3 #badcb=3/3
+128919  removed c/b 1/0 #badcb=1/0
+128921  removed c/b 3/3 #badcb=3/3
+128923  removed c/b 3/3 #badcb=3/3
+128924  removed c/b 1/0,3/3 #badcb=1/0,3/3
+128925  removed c/b 1/0 #badcb=1/0
+
+
+# LH88907 June 17
+123984 remove c/b 3/0 #badcb=3/0
+124255 [REOBSERVE] < 3/6 bands in chassis 3 after removing 3/4 #badcb=3/4, qagrade=-2
+124256 [QAFAIL] < 3/6 bands in chassis 0,1,3 and <2 chassis for band 0,3 after removing c/b 0/1,0/4,0/3 #badcb=0/1,0/4,3/3, qagrade=-2
+124257 removed c/b 1/0,3/0,3/3 #badcb=1/0,3/0,3/3, qagrade=-2
+124259 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124260 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124261 [REOBSERVE] < 3/6 bands for chassis 3 after removing 1/0,3/3 #badcb=1/0,3/3, qagrade=-2
+124960 removed c/b 1/0,3/3 #badcb=1/0,3/3
+124961 removed c/b 1/0,3/3 #badcb=1/0,3/3
+124962 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124964 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124965 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124966 removed c/b 3/3 #badcb=3/3
+124968 removed c/b 1/0,3/3 #badcb=1/0,3/3
+124973 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124974 removed c/b 3/3 #badcb=3/3
+124975 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124977 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124978 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124979 removed c/b 3/0 #badcb=3/0
+124981 removed c/b 3/0,3/3 #badcb=3/0,3/3
+124982 removed c/b 3/0,3/3 #badcb=3/0,3/3
+129483 removed c/b 3/0,3/3 #badcb=3/0,3/3
+127359 removed c/b 1/0,3/0,3/3 #badcb=1/0,3/0,3/3
+127360 removed c/b 1/0,3/3 #badcb=1/0,3/3
+127361 removed c/b 1/0,3/3 #badcb=1/0,3/3
+127363 removed c/b 3/0,3/3 #badcb=3/0,3/3
+127364 removed c/b 1/0 #badcb=1/0
+127365 removed c/b 1/0,3/5 #badcb=1/0,3/5
+127368 removed c/b 1/0,3/3,3/5 #badcb=1/0,3/3,3/5
+127369 removed c/b 3/3 #badcb=3/3
+127372 removed c/b 1/0,3/3 #badcb=1/0,3/3
+127373 removed c/b 1/0,3/5 #badcb=1/0,3/5
+127374 removed c/b 3/0 #badcb=3/0
+127376 removed c/b 3/0,3/3 #badcb=3/0,3/3
+127377 removed c/b 1/0 #badcb=1/0
+127378 removed c/b 1/0,3/3 #badcb=1/0,3/3
+127462 removed c/b 1/0 #badcb=1/0
+127464 removed c/b 1/0,3/3 #badcb=1/0,3/3
+127466 removed c/b 1/0,3/0 #badcb=1/0,3/0
+127467 removed c/b 1/0,3/0 #badcb=1/0,3/0
+127468 removed c/b 3/0 #badcb=3/0
+127470 removed c/b 1/0,3/0 #badcb=1/0,3/0
