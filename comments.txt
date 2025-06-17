@@ -23,26 +23,50 @@
 #LH97576
 121981  REOBSERVE <2 bands in chassis 3 after removing c/b 3/0 #badcb=3/0,3/3, qagrade=-2
 121982  REOBSERVE <2 bands in chassis 3 #qagrade=-2
-121983  removed c/b 1/0,3/3 #badcb=1/0,3/3, qagrade=3
-122412  removed c/b 3/0,3/3 #badcb=3/0,3/3, qagrade=3
-122413  removed c/b 3/3 #badcb=3/3, qagrade=3
-122414  removed c/b 3/0,3/3 #badcb=3/0,3/3, qagrade=3
-123714  removed c/b 1/0,3/3 #badcb=1/0,3/3, qagrade=3
-123715  removed c/b 3/3 #badcb=3/3, qagrade=3
+121983  removed c/b 1/0,3/3 #badcb=1/0,3/3
+122412  removed c/b 3/0,3/3 #badcb=3/0,3/3
+122413  removed c/b 3/3 #badcb=3/3
+122414  removed c/b 3/0,3/3 #badcb=3/0,3/3
+123714  removed c/b 1/0,3/3 #badcb=1/0,3/3
+123715  removed c/b 3/3 #badcb=3/3
 123716  [QAFAIL] < 3/6 bands in chassis 1. Removed c/b 0/1,1/4,3/3. #badcb=0/1,1/4,3/3, qagrade=-2
-123718  [QAFAIL] < 3/6 bands in chassis 1. Abnormally high Tsys chassis 0 + 1. Removed c/b 3/3  #badcb=3/3, qagrade=-2
-123719  removed c/b 1/0,3/3 #badcb=1/0,3/3, qagrade=3
-123720  removed c/b 1/0,3/3 #badcb=1/0,3/3, qagrade=3
-123722  removed c/b 3/3 #badcb=3/3, qagrade=3
+123718  [REOBSERVE] < 3/6 bands in chassis 1. Removed c/b 3/3  #badcb=3/3, qagrade=-2
+123719  removed c/b 1/0,3/3 #badcb=1/0,3/3
+123720  removed c/b 1/0,3/3 #badcb=1/0,3/3
+123722  removed c/b 3/3 #badcb=3/3
 123723  [QAFAIL] only one chassis for band 0. Removed c/b 3/3 #badcb=3/3, qagrade=-2
-123724  removed c/b 1/0,3/0,3/3 #badcb=1/0,3/0,3/3, qagrade=3
-127537  #qagrade=3
-127538  removed c/b 3/0 #badcb=3/0, qagrade=3
-127539  #qagrade=3
-127541  #qagrade=3
-127542  #qagrade=3
-127543  removed c/b 2/2 #badcb=2/2, qagrade=3
-127545  #qagrade=3
-127546  [QAFAIL] < 3/6 bands in chassis 1 after removing 1/0 + Tsys chassis 1 peaks #badcb=1/0, qagrade=-2
-127547  removed c/b 1/0 #badcb=1/0, qagrade=3
- 
+123724  removed c/b 1/0,3/0,3/3 #badcb=1/0,3/0,3/3
+123985  removed c/b 3/0 #badcb=3/0
+127538  removed c/b 3/0 #badcb=3/0
+127543  removed c/b 2/2 #badcb=2/2
+127546  [REOBSERVE] < 3/6 bands in chassis 1 after removing 1/0 #badcb=1/0, qagrade=-2
+127547  removed c/b 1/0 #badcb=1/0
+127551  removed c/b 3/0 #badcb=3/0
+127552  removed c/b 3/0 #badcb=3/0
+127558  removed c/b 3/0 #badcb=3/0
+127559  removed c/b 3/5 #badcb=3/5
+127565  removed c/b 3/0 #badcb=3/0
+127567  removed c/b 3/0 #badcb=3/0
+127568  removed c/b 3/0 #badcb=3/0
+127571  removed c/b 3/0 #badcb=3/0
+127733  [QAFAIL] rms/rms0 = 5.00 >> 1.40 #qagrade=-2
+127734  [QAFAIL] Tsys jitter. All bands removed from pipeline. #qagrade=-2
+127735  [QAFAIL] rms/rms0 = 3.71 >> 1.40 #qagrade=-2
+127738  [QAFAIL] Tsys jitter and < 3/6 bands per chassis + <2 chassis per band #qagrade=-2
+127739  [QAFAIL] Tsys jitter, All bands removed from pipeline. #qagrade=-2
+127741  [QAFAIL] rms/rms0 = 8.08 >> 1.40 #qagrade=-2
+127742  [REOBSERVE] rms/rms0 = 1.79 > 1.40 #qagrade=-2
+127743  [REOBSERVE] rms/rms0 = 1.77 > 1.40. Remove badcb=3/5. #badcb=3/5, qagrade=-2
+127851  [QAFAIL] Tsys jitter. All bands removed from pipeline. #qagrade=-2
+127852  [QAFAIL] < 3/6 bands per chassis and < 2/4 chassis per band. #qagrade=-2
+127853  [QAFAIL] rms/rms0 = 3.23 >> 1.40 #qagrade=-2
+127855  [REOBSERVE] rms/rms0 = 1.51 > 1.40. Removed c/b 1/0 #qagrade=-2
+127856  removed c/b 3/3  #badcb=3/3
+128824  [REOBSERVE] < 3/6 bands per chassis #qagrade=-2
+128825  [REOBSERVE] < 3/6 bands in chassis 3 after removing 1/0,3/3,3/5 #badcb=1/0,3/3,3/5, qagrade=-2
+128826  remove c/b 3/3 #badcb=3/3
+128919  remove c/b 1/0 #badcb=1/0
+128921  remove c/b 3/3 #badcb=3/3
+128923  remove c/b 3/3 #badcb=3/3
+128924  remove c/b 1/0,3/3 #badcb=1/0,3/3
+128925  remove c/b 1/0 #badcb=1/0
