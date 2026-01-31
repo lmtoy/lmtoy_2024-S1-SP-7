@@ -120,10 +120,17 @@
 127472 removed c/b 3/0. #badcb=3/0
 
 # LH136545
-129294 removed c/b 1/0.
-129295 removed c/b 1/0.
-129296 removed c/b 1/0.
-
+129294 removed c/b 1/0. #badcb=1/0
+129295 removed c/b 1/0. #badcb=1/0
+129296 removed c/b 1/0. #badcb=1/0
+147165 removed c/b 3/0. #badcb=3/0
+147167 removed c/b 1/0. #badcb=1/0
+147300 removed c/b 3/0. #badcb=3/0
+147689 removed c/b 1/0. #badcb=1/0
+147708 removed c/b 3/0. #badcb=3/0
+147709 removed c/b 1/2,3/0. #badcb=1/2,3/0
+147713 removed c/b 3/4. #badcb=3/4
+148067 negative spike board 4 #qagrade=-2
 # LH124379
 127860 [QAFAIL] rms/rms0 = 2.06 >> 1.40. #qagrade=-2
 127862 removed c/b 3/0. #badcb=3/0
