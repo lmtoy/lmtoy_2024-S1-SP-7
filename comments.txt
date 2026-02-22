@@ -7,8 +7,7 @@
 127860_133188 #qagrade=0
 121981_128925 #qagrade=0
 112601_126746 #qagrade=0
-129294_129296 #qagrade=0
-
+129249_148153 [72/73] #qagrade=0
 
 #LH85226
 112601	removed c/b 3/0	#badcb=3/0
@@ -131,6 +130,8 @@
 147709 removed c/b 1/2,3/0. #badcb=1/2,3/0
 147713 removed c/b 3/4. #badcb=3/4
 148067 negative spike board 4 #qagrade=-2
+152584 remove badcb 3/0 #badcb=3/0
+
 # LH124379
 127860 [QAFAIL] rms/rms0 = 2.06 >> 1.40. #qagrade=-2
 127862 removed c/b 3/0. #badcb=3/0
