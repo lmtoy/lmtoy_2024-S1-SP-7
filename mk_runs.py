@@ -83,7 +83,7 @@ on["LH97576"] = [ -121981, 121982, 121983,
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
 pars1["LH124379"] = "qagrade=3"
-pars1["LH136545"] = "speczoom=101,3"
+pars1["LH136545"] = "qagrade=3 speczoom=101,3"
 pars1["LH85226"] = "qagrade=3"
 pars1["LH89907"] = "qagrade=3"
 pars1["LH97576"] = "qagrade=3"
